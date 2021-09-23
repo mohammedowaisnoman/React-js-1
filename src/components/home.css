@@ -1,0 +1,30 @@
+.tabledata{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: mediumseagreen;
+    background-color: chocolate;
+    
+}
+h3{
+    text-align: center;
+    padding: 10px;
+    background-color:crimson;
+    color: navy;
+}
+.tabledata td{
+    padding: 5px;
+    background-color: skyblue;
+    color: maroon;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.tableheader{
+    margin: auto;
+    background-color: orchid;
+    color: white;
+}
+

@@ -1,0 +1,9 @@
+.navlink , a{
+    margin: 5px;
+    padding: 5px;
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+}
